@@ -44,7 +44,7 @@
         "wk:page":"Nankok"
     },
     "wof:country":"MM",
-    "wof:geomhash":"c6323e0b9d287923131718e638b06af6",
+    "wof:geomhash":"b7e1ac7a023db4c318861cd01b085c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     97.01998,
     24.14342000000001
 ],
-  "geometry": {"coordinates":[97.01998,24.14342000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.01998,24.14342],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Mandung"
     },
     "wof:country":"MM",
-    "wof:geomhash":"3b780f2476df389a7a046b4e971389bf",
+    "wof:geomhash":"4d7027fbe250de0c307653b08499e86e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.65158,
     26.12802000000001
 ],
-  "geometry": {"coordinates":[95.65158,26.12802000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.65158,26.12802],"type":"Point"}
 }

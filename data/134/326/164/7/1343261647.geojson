@@ -47,7 +47,7 @@
         "wk:page":"Welatam"
     },
     "wof:country":"MM",
-    "wof:geomhash":"b78a50b0a8348769aca7c885a6eb79ac",
+    "wof:geomhash":"fb96b8060dc883ac3f14796eb4f36a73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     98.37065,
     26.61282000000001
 ],
-  "geometry": {"coordinates":[98.37065,26.61282000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.37065,26.61282],"type":"Point"}
 }

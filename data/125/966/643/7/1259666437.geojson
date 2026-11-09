@@ -50,7 +50,7 @@
         "wk:page":"Minhla%2C_Magway"
     },
     "wof:country":"MM",
-    "wof:geomhash":"141fedf2f5ba5d73e4bff2ae69376d4f",
+    "wof:geomhash":"6c1bb622533200b74f9632d5282b87ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     95.03888,
     19.96812000000001
 ],
-  "geometry": {"coordinates":[95.03888000000001,19.96812000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.03888,19.96812],"type":"Point"}
 }

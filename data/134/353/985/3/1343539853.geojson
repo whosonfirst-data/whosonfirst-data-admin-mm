@@ -44,7 +44,7 @@
         "wk:page":"Tasinngan"
     },
     "wof:country":"MM",
-    "wof:geomhash":"980874a332472581dd61fc3c64366d99",
+    "wof:geomhash":"92b0134768747b1b7c3c0b4732976860",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.40254,
     25.93377000000001
 ],
-  "geometry": {"coordinates":[95.40254,25.93377000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.40254,25.93377],"type":"Point"}
 }

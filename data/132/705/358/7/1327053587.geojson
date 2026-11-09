@@ -47,7 +47,7 @@
         "wk:page":"Teinthaw"
     },
     "wof:country":"MM",
-    "wof:geomhash":"2f275b821e02d9b9c98c37a9a1b4c6ff",
+    "wof:geomhash":"f99318b2717b790161a9348987895c07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     97.2533,
     24.39717000000001
 ],
-  "geometry": {"coordinates":[97.2533,24.39717000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.2533,24.39717],"type":"Point"}
 }

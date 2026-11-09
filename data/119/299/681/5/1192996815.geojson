@@ -44,7 +44,7 @@
         "wk:page":"Mingon_%2824%C2%B0%2711%22N_95%C2%B053%22E%29"
     },
     "wof:country":"MM",
-    "wof:geomhash":"04560ff9d3f0ad0eb79e5562fd2f680b",
+    "wof:geomhash":"717e4c8bd3c1e2828279a8e49600def0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.88167,
     24.18677000000001
 ],
-  "geometry": {"coordinates":[95.88167,24.18677000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.88167,24.18677],"type":"Point"}
 }

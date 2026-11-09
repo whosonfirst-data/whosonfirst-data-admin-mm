@@ -49,7 +49,7 @@
     },
     "wof:country":"MM",
     "wof:created":1459009581,
-    "wof:geomhash":"1daf40fa9e19a37e3b09309d2ec76f26",
+    "wof:geomhash":"26f67488402b4d1fbc6848a1bacbfd49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     98.1904725,
     14.074583
 ],
-  "geometry": {"coordinates":[98.1904725,14.074583],"type":"Point"}
+  "geometry": {"coordinates":[98.190473,14.074583],"type":"Point"}
 }

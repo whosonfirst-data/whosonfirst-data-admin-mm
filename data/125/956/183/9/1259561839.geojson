@@ -47,7 +47,7 @@
         "wk:page":"Myaungzin"
     },
     "wof:country":"MM",
-    "wof:geomhash":"859b9fe93999ad28f9b11f71591fb5ac",
+    "wof:geomhash":"ea5fc7d27ff884f3649f634b1ea065d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     94.71176,
     22.98857000000001
 ],
-  "geometry": {"coordinates":[94.71176,22.98857000000001],"type":"Point"}
+  "geometry": {"coordinates":[94.71176,22.98857],"type":"Point"}
 }

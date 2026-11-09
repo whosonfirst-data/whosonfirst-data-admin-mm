@@ -47,7 +47,7 @@
         "wk:page":"Ritjawng"
     },
     "wof:country":"MM",
-    "wof:geomhash":"880d41891853bc6711bd3cee41ed7fde",
+    "wof:geomhash":"171129c6b65da17e0fb6d9df07389e11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     98.39767,
     26.34349000000001
 ],
-  "geometry": {"coordinates":[98.39767000000001,26.34349000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.39767,26.34349],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Pasai%2C_Burma"
     },
     "wof:country":"MM",
-    "wof:geomhash":"ffaea2c9ac348d80fa55ef2dc54f66d9",
+    "wof:geomhash":"6fa199620aa5027f1e6c6f3e780f21f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     98.3117,
     26.38957000000001
 ],
-  "geometry": {"coordinates":[98.3117,26.38957000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.3117,26.38957],"type":"Point"}
 }

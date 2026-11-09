@@ -44,7 +44,7 @@
         "wk:page":"Mitnaw"
     },
     "wof:country":"MM",
-    "wof:geomhash":"ff71bf7fe1ae49dedfce83010baeaccf",
+    "wof:geomhash":"4b1f4318fb708e190915e0d466414a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     98.19982,
     26.11442000000001
 ],
-  "geometry": {"coordinates":[98.19982,26.11442000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.19982,26.11442],"type":"Point"}
 }

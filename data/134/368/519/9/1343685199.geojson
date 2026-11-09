@@ -44,7 +44,7 @@
         "wk:page":"Chyinhtaung"
     },
     "wof:country":"MM",
-    "wof:geomhash":"90bd87b02c0594ca2f8a4a5e10917283",
+    "wof:geomhash":"07d7b6b1c94bc5a11a8a4b704827e4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     98.20072,
     25.81477000000001
 ],
-  "geometry": {"coordinates":[98.20072,25.81477000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.20072,25.81477],"type":"Point"}
 }

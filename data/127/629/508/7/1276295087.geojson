@@ -46,7 +46,7 @@
         "gn:id":1480208
     },
     "wof:country":"MM",
-    "wof:geomhash":"e556a4ca08c19c1936ecc3987bdbd4c4",
+    "wof:geomhash":"964c1759e72f1bb8f537186afd0216c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     96.05847,
     17.05562999999999
 ],
-  "geometry": {"coordinates":[96.05847,17.05562999999999],"type":"Point"}
+  "geometry": {"coordinates":[96.05847,17.05563],"type":"Point"}
 }

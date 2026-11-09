@@ -47,7 +47,7 @@
         "wk:page":"Abegong"
     },
     "wof:country":"MM",
-    "wof:geomhash":"c39cd3be6f8413c3fc51ebab3b5ecb42",
+    "wof:geomhash":"9056604c622e8383045853101ec25abd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     98.47337,
     27.18987000000001
 ],
-  "geometry": {"coordinates":[98.47337,27.18987000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.47337,27.18987],"type":"Point"}
 }

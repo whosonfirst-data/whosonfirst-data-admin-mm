@@ -44,7 +44,7 @@
         "wk:page":"Hnawgon"
     },
     "wof:country":"MM",
-    "wof:geomhash":"8d4dd13168d6f022d77ef9cf8dd0076c",
+    "wof:geomhash":"e37a3bd8107a2f2d767f280b1d507413",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     94.1,
     23.36667000000001
 ],
-  "geometry": {"coordinates":[94.09999999999999,23.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[94.1,23.36667],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Nawngtaw"
     },
     "wof:country":"MM",
-    "wof:geomhash":"c21b357d57793f7ee1d9cba14523f969",
+    "wof:geomhash":"c19bce0da923e7adae0879e1a8762031",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.11895,
     24.82800000000001
 ],
-  "geometry": {"coordinates":[95.11895,24.82800000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.11895,24.828],"type":"Point"}
 }

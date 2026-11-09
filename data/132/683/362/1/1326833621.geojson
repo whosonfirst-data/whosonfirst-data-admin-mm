@@ -55,7 +55,7 @@
         "wk:page":"Gwa,_Myanmar"
     },
     "wof:country":"MM",
-    "wof:geomhash":"0c496dccdb35f03f3d8a6328b2ad2154",
+    "wof:geomhash":"23c72c65591ba5f828e63146b65ab4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     94.57222,
     17.59248999999999
 ],
-  "geometry": {"coordinates":[94.57222,17.59248999999999],"type":"Point"}
+  "geometry": {"coordinates":[94.57222,17.59249],"type":"Point"}
 }

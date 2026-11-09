@@ -48,7 +48,7 @@
         "wk:page":"Namhedaung"
     },
     "wof:country":"MM",
-    "wof:geomhash":"756ff22c6880d0ccbbc46c0216f4c031",
+    "wof:geomhash":"946ddd97ae05b0e134b45b2b00b7d21f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     95.70978,
     24.64342000000001
 ],
-  "geometry": {"coordinates":[95.70977999999999,24.64342000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.70978,24.64342],"type":"Point"}
 }

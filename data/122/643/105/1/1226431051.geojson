@@ -229,7 +229,7 @@
         "gn:id":1328009
     },
     "wof:country":"MM",
-    "wof:geomhash":"cfb76ab9a28d5d422d9ca5804a66b518",
+    "wof:geomhash":"5dceb886a54c3647dbeec15990dc9138",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -255,5 +255,5 @@
     95.17251,
     21.96567000000001
 ],
-  "geometry": {"coordinates":[95.17251,21.96567000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.17251,21.96567],"type":"Point"}
 }

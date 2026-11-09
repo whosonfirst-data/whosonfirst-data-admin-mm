@@ -44,7 +44,7 @@
         "wk:page":"Tason"
     },
     "wof:country":"MM",
-    "wof:geomhash":"4a827438d6eaf4039f023bdcf46c9d77",
+    "wof:geomhash":"b40cc8f49ff4e32e7b57c18d033f540a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.04418,
     25.12812000000001
 ],
-  "geometry": {"coordinates":[95.04418,25.12812000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.04418,25.12812],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Homalin"
     },
     "wof:country":"MM",
-    "wof:geomhash":"b3c620a3cd2bc31fc4bc5c5d041af7cc",
+    "wof:geomhash":"99df614ebd592ad53f12831dd2011a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     94.90916,
     24.86667000000001
 ],
-  "geometry": {"coordinates":[94.90916,24.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[94.90916,24.86667],"type":"Point"}
 }

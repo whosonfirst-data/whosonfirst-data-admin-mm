@@ -59,7 +59,7 @@
         "wk:page":"Mindat,_Chin_State"
     },
     "wof:country":"MM",
-    "wof:geomhash":"6c2d5ebae42e4081c546ba8ac7796e33",
+    "wof:geomhash":"ed2645421cfa50a7b89cc56e972067d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     93.98333,
     21.36667000000001
 ],
-  "geometry": {"coordinates":[93.98333,21.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[93.98333,21.36667],"type":"Point"}
 }

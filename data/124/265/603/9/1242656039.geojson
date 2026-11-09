@@ -48,7 +48,7 @@
         "wk:page":"Kawala%2C_Burma"
     },
     "wof:country":"MM",
-    "wof:geomhash":"bcd405ff449b027498a863042fabc241",
+    "wof:geomhash":"242846cd476d1e7cc492fbf5b75868cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     95.81274,
     26.10672000000001
 ],
-  "geometry": {"coordinates":[95.81274000000001,26.10672000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.81274,26.10672],"type":"Point"}
 }

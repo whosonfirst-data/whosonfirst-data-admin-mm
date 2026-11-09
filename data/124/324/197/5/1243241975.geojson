@@ -44,7 +44,7 @@
         "wk:page":"Sanmyo"
     },
     "wof:country":"MM",
-    "wof:geomhash":"ded0e8bdaa61b3e85931066c43a502fd",
+    "wof:geomhash":"c5d273e81e8a6631a10f768961752e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     94.02251,
     23.19907000000001
 ],
-  "geometry": {"coordinates":[94.02251,23.19907000000001],"type":"Point"}
+  "geometry": {"coordinates":[94.02251,23.19907],"type":"Point"}
 }

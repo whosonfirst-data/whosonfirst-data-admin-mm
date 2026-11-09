@@ -50,7 +50,7 @@
         "wk:page":"Injangyang"
     },
     "wof:country":"MM",
-    "wof:geomhash":"3678d2232646d92b96a40be5a72cebf0",
+    "wof:geomhash":"fe5f3ef423487c123a34365afddbb3c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     97.85,
     25.86667000000001
 ],
-  "geometry": {"coordinates":[97.84999999999999,25.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.85,25.86667],"type":"Point"}
 }

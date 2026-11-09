@@ -44,7 +44,7 @@
         "wk:page":"Chawmaw"
     },
     "wof:country":"MM",
-    "wof:geomhash":"780524cf59cc74f0db03eec7eb8b2054",
+    "wof:geomhash":"f7b45dd3e0b109fe14a813c8854a84e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     98.2774,
     26.38084000000001
 ],
-  "geometry": {"coordinates":[98.2774,26.38084000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.2774,26.38084],"type":"Point"}
 }

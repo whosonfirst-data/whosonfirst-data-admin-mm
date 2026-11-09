@@ -44,7 +44,7 @@
         "wk:page":"Nayo"
     },
     "wof:country":"MM",
-    "wof:geomhash":"2d12cbbb3ddf0116358ba2bbeab19147",
+    "wof:geomhash":"2d2bf6ead638e9a2fb574159ee4c6773",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     97.27214,
     24.26147000000001
 ],
-  "geometry": {"coordinates":[97.27213999999999,24.26147000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.27214,24.26147],"type":"Point"}
 }

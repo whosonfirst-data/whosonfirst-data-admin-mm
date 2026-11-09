@@ -44,7 +44,7 @@
         "wk:page":"Shwetagun"
     },
     "wof:country":"MM",
-    "wof:geomhash":"025bf31e9bad2fd0c90bec92cc6d0b12",
+    "wof:geomhash":"0400fb42f8f8da9e1a009461931b2cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.37996,
     25.47412000000001
 ],
-  "geometry": {"coordinates":[95.37996,25.47412000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.37996,25.47412],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Taukte"
     },
     "wof:country":"MM",
-    "wof:geomhash":"c1629355543013cb3901df2d4c16cd91",
+    "wof:geomhash":"26f6e67c3eb00acf15055d7bb8de4980",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     97.00019,
     24.14567000000001
 ],
-  "geometry": {"coordinates":[97.00019,24.14567000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.00019,24.14567],"type":"Point"}
 }

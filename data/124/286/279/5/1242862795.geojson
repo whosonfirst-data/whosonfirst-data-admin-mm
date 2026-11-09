@@ -44,7 +44,7 @@
         "wk:page":"Naukpe"
     },
     "wof:country":"MM",
-    "wof:geomhash":"e4cd574fdac671b757b98a629522fa61",
+    "wof:geomhash":"5725a62cfaf90ed60c009b614c57c266",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.39478,
     25.53737000000001
 ],
-  "geometry": {"coordinates":[95.39478,25.53737000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.39478,25.53737],"type":"Point"}
 }

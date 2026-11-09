@@ -44,7 +44,7 @@
         "wk:page":"Hko-nwe"
     },
     "wof:country":"MM",
-    "wof:geomhash":"54716dec4c9c1767e16f693f2978988f",
+    "wof:geomhash":"25774849d554106329ac256da74ba407",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     97.09537,
     24.30567000000001
 ],
-  "geometry": {"coordinates":[97.09537,24.30567000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.09537,24.30567],"type":"Point"}
 }

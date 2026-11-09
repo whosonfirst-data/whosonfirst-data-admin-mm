@@ -44,7 +44,7 @@
         "wk:page":"Lumbang%2C_Burma"
     },
     "wof:country":"MM",
-    "wof:geomhash":"7e1d1f629ebd0835b78b05fb99438cf5",
+    "wof:geomhash":"51533c81a15379d0dae0731d762abf2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     93.7,
     23.0
 ],
-  "geometry": {"coordinates":[93.7,23.0],"type":"Point"}
+  "geometry": {"coordinates":[93.7,23],"type":"Point"}
 }

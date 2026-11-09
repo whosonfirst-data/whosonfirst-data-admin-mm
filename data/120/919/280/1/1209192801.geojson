@@ -57,7 +57,7 @@
         "wk:page":"Mingun"
     },
     "wof:country":"MM",
-    "wof:geomhash":"56f85eaa9cbca91bfe476159105d777e",
+    "wof:geomhash":"8c1c34220eda44088562010df55d3a8c",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -82,5 +82,5 @@
     96.01975,
     22.04197000000001
 ],
-  "geometry": {"coordinates":[96.01975,22.04197000000001],"type":"Point"}
+  "geometry": {"coordinates":[96.01975,22.04197],"type":"Point"}
 }

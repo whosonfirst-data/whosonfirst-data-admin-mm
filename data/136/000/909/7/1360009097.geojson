@@ -44,7 +44,7 @@
         "wk:page":"Mehke"
     },
     "wof:country":"MM",
-    "wof:geomhash":"08cb9b80bb75f21811ebb06e1b284f36",
+    "wof:geomhash":"e42a4b4d6aa7245c378f89275029ecb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     98.36728,
     26.66434000000001
 ],
-  "geometry": {"coordinates":[98.36727999999999,26.66434000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.36728,26.66434],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Kywegya"
     },
     "wof:country":"MM",
-    "wof:geomhash":"4eb24e11a62dab8ae1f15ff3be3d6759",
+    "wof:geomhash":"95ad45133a445cb6c0c0ba54ac838605",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     94.54499,
     22.84752000000001
 ],
-  "geometry": {"coordinates":[94.54499,22.84752000000001],"type":"Point"}
+  "geometry": {"coordinates":[94.54499,22.84752],"type":"Point"}
 }

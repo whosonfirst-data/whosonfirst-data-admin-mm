@@ -44,7 +44,7 @@
         "wk:page":"Namhka"
     },
     "wof:country":"MM",
-    "wof:geomhash":"b6672380de3f058d6c613e1f6c96f095",
+    "wof:geomhash":"a82f733bba642465a58e756501a345f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.0,
     25.06667
 ],
-  "geometry": {"coordinates":[95.0,25.06667],"type":"Point"}
+  "geometry": {"coordinates":[95,25.06667],"type":"Point"}
 }

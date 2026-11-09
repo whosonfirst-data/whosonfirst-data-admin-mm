@@ -44,7 +44,7 @@
         "wk:page":"Hkayazahkuso"
     },
     "wof:country":"MM",
-    "wof:geomhash":"c35fa202d439f9ec84b5adad224ae291",
+    "wof:geomhash":"678e847e7f3bb1569a7030ac2f84df35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     98.5957,
     26.31674000000001
 ],
-  "geometry": {"coordinates":[98.59569999999999,26.31674000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.5957,26.31674],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Ganyo"
     },
     "wof:country":"MM",
-    "wof:geomhash":"6aed58618eab965ef695c5fe724fa9da",
+    "wof:geomhash":"b0be63cb89b49868f90baf8a2f9d3052",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.1991,
     26.57529000000001
 ],
-  "geometry": {"coordinates":[95.1991,26.57529000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.1991,26.57529],"type":"Point"}
 }

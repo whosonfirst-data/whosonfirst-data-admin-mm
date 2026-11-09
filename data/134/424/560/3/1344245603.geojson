@@ -44,7 +44,7 @@
         "wk:page":"Tonsahka"
     },
     "wof:country":"MM",
-    "wof:geomhash":"bcc19422eb9d4f3bd3dc5de97315f73c",
+    "wof:geomhash":"9ae4e2d64d0564da1a2eef54b48580a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     95.05745,
     24.90862000000001
 ],
-  "geometry": {"coordinates":[95.05745,24.90862000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.05745,24.90862],"type":"Point"}
 }

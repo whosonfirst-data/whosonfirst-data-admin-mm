@@ -44,7 +44,7 @@
         "wk:page":"Tamaiklon"
     },
     "wof:country":"MM",
-    "wof:geomhash":"06c25884a798d150274619a96e8051e6",
+    "wof:geomhash":"ba03746c8236df1fcd7878ef83d66749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     97.26612,
     24.31412000000001
 ],
-  "geometry": {"coordinates":[97.26612,24.31412000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.26612,24.31412],"type":"Point"}
 }

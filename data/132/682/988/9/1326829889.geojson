@@ -44,7 +44,7 @@
         "wk:page":"Nawnghkyeng"
     },
     "wof:country":"MM",
-    "wof:geomhash":"0b17c08c1e3af72d7e67038052683088",
+    "wof:geomhash":"b9dc7c0e7c843d19b8efe00fffef1e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     97.28318,
     24.50697000000001
 ],
-  "geometry": {"coordinates":[97.28318,24.50697000000001],"type":"Point"}
+  "geometry": {"coordinates":[97.28318,24.50697],"type":"Point"}
 }

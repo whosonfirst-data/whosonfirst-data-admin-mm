@@ -47,7 +47,7 @@
         "wk:page":"Meng-u"
     },
     "wof:country":"MM",
-    "wof:geomhash":"02f85a3a619e2d21f145fd60d78d3b20",
+    "wof:geomhash":"34d8fae1e41f41d7de372aa2bd64070d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     95.1379,
     24.57097000000001
 ],
-  "geometry": {"coordinates":[95.1379,24.57097000000001],"type":"Point"}
+  "geometry": {"coordinates":[95.1379,24.57097],"type":"Point"}
 }

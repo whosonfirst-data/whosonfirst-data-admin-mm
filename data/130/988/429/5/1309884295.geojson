@@ -44,7 +44,7 @@
         "wk:page":"Hupet"
     },
     "wof:country":"MM",
-    "wof:geomhash":"4f6f1e02ed55a1c3d13e43b0ad767e9b",
+    "wof:geomhash":"50aff2c53541690153be8784958e255e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     94.83318,
     24.84302000000001
 ],
-  "geometry": {"coordinates":[94.83318,24.84302000000001],"type":"Point"}
+  "geometry": {"coordinates":[94.83318,24.84302],"type":"Point"}
 }
