@@ -67,12 +67,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Thelon"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u585e\u9686\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u585e\u9686\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":1293887083,
-    "wof:lastmodified":1636504970,
+    "wof:lastmodified":1794999722,
     "wof:name":"Thelon",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

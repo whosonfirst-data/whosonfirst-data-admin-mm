@@ -100,12 +100,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Sane"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8428\u5185\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u585e\u7d0d\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -129,7 +123,7 @@
         }
     ],
     "wof:id":1344066061,
-    "wof:lastmodified":1636504959,
+    "wof:lastmodified":1794999722,
     "wof:name":"Sane",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",
