@@ -1,0 +1,75 @@
+{
+  "id": 9895093031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.76214,23.69611,98.76214,23.69611",
+    "geom:latitude":23.69611,
+    "geom:longitude":98.76214,
+    "gn:population":23435,
+    "iso:country":"MM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494766: name \"Laukkai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494766"
+        },
+        {
+            "citation":"GeoNames populated place 13494766: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494766"
+        },
+        {
+            "citation":"GeoNames populated place 13494766: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494766"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092046035 (Laukkaing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181,
+        85674595,
+        102191569,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494766
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"066db8772b6e356c68fdae9902e989dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":9895093031,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":9895093031,
+    "wof:lastmodified":1795747301,
+    "wof:name":"Laukkai",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.76214,
+    23.69611,
+    98.76214,
+    23.69611
+],
+  "geometry": {"coordinates":[98.76214,23.69611],"type":"Point"}
+}
